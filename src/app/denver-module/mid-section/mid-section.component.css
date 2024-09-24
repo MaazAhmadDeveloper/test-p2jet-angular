@@ -1,0 +1,19 @@
+.parking-rate-section{
+    text-align: center; 
+}
+.parking-option-heading{
+    margin: 1.7em 0em;
+    color: #f7454a;
+}
+.card-sub-rate{
+    font-size: 20px;
+    font-weight: 600;
+}
+.card-main-rate{
+    font-size: 32px;
+    font-weight: 600;
+}
+.discount-card-image{
+    max-width: 200px;
+    margin: auto;
+}

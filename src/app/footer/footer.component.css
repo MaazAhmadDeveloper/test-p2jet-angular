@@ -1,0 +1,29 @@
+footer{
+    bottom: 0;
+    background-color: #f8f9fa;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+.footer-links-heading{
+    font-size: 28px;
+    font-weight: 600;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-weight: 600;
+    color: darkgray;
+    cursor: pointer;
+}
+li:hover{
+    color: red;
+}
+a{
+    text-decoration: none;
+    color: darkgray;
+}
+a:hover{
+    color: red;
+}
